@@ -9,8 +9,8 @@ incornum1=43
 incornum2=45
 incornum3=28
 #Incorrect average
-incor_average=(43+45+28+60+42)/5
+incor_average=(incornum1+incornum2+incornum3+cornum4+cornum5)/5
 print("The average of five numbers is", incor_average)
 #Correct average
-cor_average=(34+54+82+60+43)/5
+cor_average=(cornum1+cornum2+cornum3+cornum4+cornum5)/5
 print("The correct average of five numbers is", cor_average)
